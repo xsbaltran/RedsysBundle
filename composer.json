@@ -1,5 +1,5 @@
 {
-    "name": "paymentsuite/redsys-bundle",
+    "name": "xsbaltran/redsys-bundle",
     "type": "symfony-bundle",
     "description": "Redsys PaymentSuite Component",
     "keywords": ["redsys", "sermepa", "payment", "ecommerce"],
@@ -18,6 +18,12 @@
         {
             "name": "Symfony Community",
             "homepage": "https://github.com/PaymentSuite/paymentsuite/contributors"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/xsbaltran/RedsysBundle"
         }
     ],
     "require": {
